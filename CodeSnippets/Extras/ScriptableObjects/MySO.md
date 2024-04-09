@@ -1,0 +1,1 @@
+Here is the use case of my scriptable objects in my tower defense game. I was attempting to use an Entity-Component-System (ECS) architecture but found it a bit overloading and instead opted for something in between.

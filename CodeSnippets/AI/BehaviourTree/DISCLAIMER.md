@@ -1,0 +1,1 @@
+These scripts (In regards to the Behaviour Tree) are not originally mine. They were from a tutorial I followed By KIWICODER. However, these are the scripts I had used into my projects for creating a behaviour tree and AI logic.
