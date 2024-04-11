@@ -1,1 +1,2 @@
-These scripts (In regards to the Behaviour Tree) are not originally mine. They were from a tutorial I followed By KIWICODER. However, these are the scripts I had used into my projects for creating a behaviour tree and AI logic.
+# Disclaimer
+These scripts are part of a Behaviour Tree system I implemented in my project, inspired by a tutorial from KIWICODER. While the core concepts and structure are from the tutorial, I've customized and expanded upon them to fit the needs of my tower defense game. These custom Action Nodes play crucial roles in defining AI logic and behaviors within the game.
