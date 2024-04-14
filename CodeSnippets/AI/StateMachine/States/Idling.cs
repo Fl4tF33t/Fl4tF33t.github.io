@@ -41,8 +41,6 @@ public class Idling : BaseState
         {
             stateMachine.ChangeState(sm.trackingState);
         }else RandomJump();
-
-        //Debug.Log(sm.frogData.GetCirCol2dDetection().IsTouchingLayers(sm.frogData.trackingLayer));
     }
 
 

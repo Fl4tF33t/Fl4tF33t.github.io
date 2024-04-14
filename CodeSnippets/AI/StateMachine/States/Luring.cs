@@ -2,10 +2,8 @@ using UnityEngine;
 
 public class Luring : BaseState
 {
+    //new empty state that requires logic
     private FrogSM sm;
-
-    /*private bool grounded;
-    private int groundedLayer = 1 << 6;*/
 
     public Luring(FrogSM stateMachine) : base("Luring", stateMachine)
     {

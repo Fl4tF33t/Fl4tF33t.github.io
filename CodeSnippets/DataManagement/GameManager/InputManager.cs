@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 
 public class InputManager : Singleton<InputManager>
 {
+    //base input touch systemn for mobile devices
     public event Action<Vector2> OnTouchTap;
     public event Action<Vector2> OnTouchInput;
 
