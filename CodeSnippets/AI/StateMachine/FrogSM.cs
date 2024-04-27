@@ -10,7 +10,7 @@ public class FrogSM : StateMachine
     [SerializeField]
     private FrogSO frogSO;
     [HideInInspector]
-    public FrogSO currentFrogSO 
+    public FrogSO urrentFrogSO 
     { 
         get
         {
