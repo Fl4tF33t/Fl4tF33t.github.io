@@ -1,0 +1,2 @@
+# Code / Scripts
+This folder contains a curated selection of scripts and experiments pulled from different projects I’ve worked on over time. They represent ideas, systems, and solutions that emerged while exploring various aspects of game development — some polished, others more experimental. Together, they serve as snapshots of my learning process and problem-solving approach across multiple projects, highlighting techniques and concepts that may not fit into a single unified system but were valuable stepping stones along the way.
