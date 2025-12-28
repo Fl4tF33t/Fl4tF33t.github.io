@@ -10,3 +10,8 @@ This folder contains a flexible save system I’ve developed, designed to handle
 
 This folder showcases a gameplay state machine used to manage game flow. It provides a clean, modular way to handle states like menus, gameplay, and pause, making it easier to structure and maintain game logic.
 
+
+
+##### Tasks
+
+This folder includes a rudimentary task system for player quests and objectives. It allows for defining, tracking, and completing tasks, providing a basic framework for quest management in games.
