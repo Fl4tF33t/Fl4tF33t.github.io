@@ -15,3 +15,8 @@ This folder showcases a gameplay state machine used to manage game flow. It prov
 ##### Tasks
 
 This folder includes a rudimentary task system for player quests and objectives. It allows for defining, tracking, and completing tasks, providing a basic framework for quest management in games.
+
+
+##### Composition
+
+This folder contains a simple composition system that enables dynamic assembly of game objects from modular components. It promotes flexibility and reusability in game object design.
