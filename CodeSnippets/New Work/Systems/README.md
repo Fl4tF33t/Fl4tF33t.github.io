@@ -20,3 +20,7 @@ This folder includes a rudimentary task system for player quests and objectives.
 ##### Composition
 
 This folder contains a simple composition system that enables dynamic assembly of game objects from modular components. It promotes flexibility and reusability in game object design.
+
+##### Pathfinding
+
+This folder features a basic pathfinding implementation, allowing game entities to navigate through the environment. It provides foundational algorithms for movement and obstacle avoidance. Currently working on Flow Fields.
